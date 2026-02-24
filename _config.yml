@@ -1,7 +1,7 @@
 # Setup
 title:          Zaid Huda
-tagline:        that's the name
-description:    A dreamless selfless narcissist music loving programmer that has trouble programming and socializing.
+tagline:        Lead Software Engineer
+description:    Lead software engineer. I build and ship products, mentor engineers, and enjoy side projects and new tech.
 baseurl:        ""
 paginate:       5
 paginate_path:  "/blog/page:num/"
